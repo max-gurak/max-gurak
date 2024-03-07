@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Max Gurak</h1>
 <h3 align="center">Full Stack developer.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=max-gurak" alt="max-gurak" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=max-gurak&rank=S,SS,SSS,A,AA,AAA&margin-w=15&margin-h=15" alt="max-gurak" /></a> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -9,4 +9,4 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=max-gurak&" alt="max-gurak" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=max-gurak" alt="max-gurak" /></p>
